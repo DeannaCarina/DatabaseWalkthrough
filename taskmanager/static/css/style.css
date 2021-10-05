@@ -8,3 +8,6 @@ body {
     flex: 1 0 auto;
   }
       
+strong{
+  font-weight: 700;
+}
